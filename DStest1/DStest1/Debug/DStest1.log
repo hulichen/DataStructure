@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 _QueuePop，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _QueueFront，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _QueueBack，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _QueueSize，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _QueueDestroy，函数 _main 中引用了该符号
+F:\C++ code\DStest1\Debug\DStest1.exe : fatal error LNK1120: 5 个无法解析的外部命令
